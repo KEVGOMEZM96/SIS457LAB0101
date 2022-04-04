@@ -7,7 +7,6 @@ int main()
 	char v = 'v';
 	char s = 's';
 
-
 	while (v == 'v') {
 
 		cout << "Mi nombre es Kevin Gomez Mollo" << endl;
