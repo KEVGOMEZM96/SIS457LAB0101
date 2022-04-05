@@ -23,7 +23,7 @@ int main()
 		cout << "Mi color favorito es el color verde" << endl;
 		cout << "Mi club favorito de futbol es Boca Jr" << endl;
 		cout << "Uno de mis sueños es poder viajar ,conocer lugares y comer comidas exoticas" << endl;
-		cout << "Actualmente estoy en el tercer cuerso de la materia de sis457" << endl;
+		cout << "Actualmente estoy en el tercer curso de la materia de sis457" << endl;
 		cout << "Desea volver a ver la biografía oprima la (v/V) Para salir oprima la (s/S) para salir" << endl;
 		cin >> v;
 
